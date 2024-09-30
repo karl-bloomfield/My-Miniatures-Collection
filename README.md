@@ -8,14 +8,14 @@ Visit (url) and check out this app.
 
 ## Tech Stack
 
-##Frontend:
+### Frontend:
 
 React - A JavaScript library for building user interfaces.
 TypeScript - A typed superset of JavaScript that compiles to plain JavaScript.
 Vite - A fast front-end build tool.
 React Router DOM - Declarative routing for React applications.
 
-##Development Tools:
+### Development Tools:
 
 SQLite3 -  A small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 ESLint - Pluggable linting utility for JavaScript and TypeScript.
