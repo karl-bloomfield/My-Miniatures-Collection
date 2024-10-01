@@ -4,7 +4,7 @@ My Miniatures collections is a small web app, designed for mobile. The main func
 
 ## Check it out
 
-Visit (url) and check out this app.
+Visit https://karl-kotare24-my-miniature-collection.devacademy.nz/ and check out this app.
 
 ## Tech Stack
 
